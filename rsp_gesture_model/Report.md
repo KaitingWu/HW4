@@ -1,7 +1,10 @@
 # 物聯網 HW4 結案報告：手勢辨識模型實作與比較
 
 ## Part 1. Raspberry Pi 4 執行測試
-*(請於此處貼上您在 Raspberry Pi 4 上執行 `test.py` 與 `carema.py` 的截圖)*
+以下是在 Raspberry Pi 4 上執行 `test.py` 與 `carema.py` 的實機測試截圖：
+
+![執行 test.py 的截圖](part1_1.jpg)
+![執行 carema.py 的截圖](part1_2.jpg)
 
 ---
 
